@@ -1,6 +1,8 @@
 
 ## 👋 Hi, I'm Kamil!
 
+---
+
 ### 🚀 About Me
 I'm a versatile software developer. I work on projects ranging from machine learning to full-stack web development and hardware integration. I’m always exploring new technologies and pushing the boundaries of what software can do in the physical world.
 
@@ -17,5 +19,4 @@ I'm a versatile software developer. I work on projects ranging from machine lear
 
 ---
 
-### 📊 GitHub Stats
 ![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamilr616&show_icons=true&theme=radical)
