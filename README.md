@@ -6,8 +6,8 @@
 
 ## 🔭 Currently working on
 
-- 🧩 **Backend development @ Desk5**
-- 🛰️ **Optica** — a management system for an optical salon (customers, prescriptions, orders) that runs fully offline on a local network — *ASP.NET Core · PostgreSQL · Next.js / React · TypeScript · Docker*
+- 🧩 **Backend development @ [Desk5](https://desk5.com/)**
+- 🛰️ **Optica** — a management system for an optical salon — *ASP.NET Core · PostgreSQL · Next.js / React · TypeScript · Docker*
 - 📈 **SEO / Google Business Profile / local digital marketing** for a client
 
 ## 💼 Professional experience & strengths
@@ -25,10 +25,10 @@ Things I've done in a paid / professional setting:
 
 Skills demonstrated in my portfolio (studies / personal projects, not commercial work):
 
-- **Machine learning & computer vision** — sign-language recognition (engineering thesis: TensorFlow · MediaPipe · Qt/PySide), emotion classification (RNN + LSTM, TensorFlow), OpenCV
-- **Embedded & IoT** — ESP32 / Arduino tracked robot with real-time SignalR control and LiDAR/depth processing (SmartBotAPI), smart-city model (SmartCityHub), ESPHome
+- **Machine learning & computer vision** — [sign-language recognition](https://github.com/Kamilr616/AI_sign_language_translator) (engineering thesis: TensorFlow · MediaPipe · Qt/PySide), [emotion classification](https://github.com/Kamilr616/Emotion_sentiment_analysis) (RNN + LSTM, TensorFlow), OpenCV
+- **Embedded & IoT** — ESP32 / Arduino tracked robot with real-time SignalR control and multi-zone ToF depth processing ([SmartBotAPI](https://github.com/Kamilr616/SmartBotAPI)), smart-city model ([SmartCityHub](https://github.com/Kamilr616/smart_city_hub)), ESPHome
 - **Web & mobile** — React, Node.js / Express (TypeScript), Next.js, Blazor, Android (Java)
-- **Desktop & algorithms** — Qt, Tkinter, queueing theory, digital image processing
+- **Desktop & algorithms** — Qt, Tkinter, [queueing theory](https://github.com/Kamilr616/ans-queue-algorithm), [digital image processing](https://github.com/Kamilr616/Image_low_pass_filter)
 
 ## 🛠️ Technologies I've worked with
 
@@ -48,11 +48,13 @@ Skills demonstrated in my portfolio (studies / personal projects, not commercial
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [SmartBotAPI](https://github.com/Kamilr616/SmartBotAPI) | ESP32 robot controlled in real time from a Blazor web app over SignalR, with live depth/LiDAR visualization; deployed to Azure | C# · .NET 8 · SignalR · ESP32 |
+| [AI_sign_language_translator](https://github.com/Kamilr616/AI_sign_language_translator) | Real-time sign-language (ASL) recognition from a webcam — engineering thesis; hand-landmark gesture models with a desktop app | Python · TensorFlow · MediaPipe · Qt/PySide |
+| [SmartBotAPI](https://github.com/Kamilr616/SmartBotAPI) | ESP32 robot controlled in real time from a Blazor web app over SignalR, with live ToF depth visualization; deployed to Azure App Service | C# · .NET 8 · SignalR · ESP32 |
 | [smart_city_hub](https://github.com/Kamilr616/smart_city_hub) | Smart-city platform (demoed on a physical LEGO model): REST API, React web dashboard, mobile app, ESP32 field modules | TypeScript · Node.js · React · ESP32 |
 | [Emotion_sentiment_analysis](https://github.com/Kamilr616/Emotion_sentiment_analysis) | Text emotion classification with an RNN+LSTM model trained on Kaggle datasets | Python · TensorFlow · NLP |
 | [IoT_App_ANS](https://github.com/Kamilr616/IoT_App_ANS) | Android app for monitoring and controlling an ESPHome IoT device | Java · Android · ESPHome |
 | [Image_low_pass_filter](https://github.com/Kamilr616/Image_low_pass_filter) | Interactive low-pass image filtering app with configurable kernels and noise | Python · OpenCV · Tkinter |
+| [LittleAlgorithm](https://github.com/bigjohn98pl/LittleAlgorithm) | Branch-and-bound (Little's algorithm) solver for the Travelling Salesman Problem — collaborative university project | C++ · Qt |
 
 ## 📊 GitHub stats
 
