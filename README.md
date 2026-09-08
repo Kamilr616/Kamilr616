@@ -2,24 +2,29 @@
 
 **Software developer** with an electronics background — working in **backend & application development**, and, through my studies and side projects, in **machine learning, computer vision and embedded/IoT**. I like building things where software meets the physical world.
 
-🎓 BSc in Computer Science (Eng.), Akademia Tarnowska (2021–2025).
+## 🎓 Education
+
+- 💻 **BEng in Computer Science** — Akademia Tarnowska (2021–2025)
+- 🤖 **Automatic Control and Robotics** — AGH University of Kraków (2019–2021)
+- 📟 **Electronics Technician** — Zespół Szkół Technicznych in Tarnów (2015–2019)
 
 ## 🚀 Currently working on
 
 - ⚙️ **Backend development @ [Desk5](https://desk5.com/)**
-- 👓 **Optica** — a management system for an optical salon — *ASP.NET Core · PostgreSQL · Next.js / React · TypeScript · Docker*
-- 📍 **SEO / Google Business Profile / local digital marketing** for a client
+- 👓 **Optica** — a self-hosted management system for an optical store — *ASP.NET Core (.NET 10) · PostgreSQL · Next.js / React · TypeScript · Docker*
+- 📍 **Local SEO & Google Business Profile** for small businesses — on-page SEO, GBP optimization, analytics & lead tracking
 
 ## 💼 Professional experience & strengths
 
 Things I've done in a paid / professional setting:
 
-- **Backend & app development** — **C# / .NET** (ASP.NET Core, Blazor, EF Core, Dapper, WinForms), **SQL Server / T-SQL**; work with **ERP & MES** systems *(Programmer Intern @ ELPLC S.A., 2024)*
+- **Backend & app development** — **C# / .NET** (ASP.NET Core, Blazor, Dapper, WinForms), **SQL Server / T-SQL**; work with **ERP & MES** systems *(Programmer Intern @ [ELPLC S.A.](https://elplc.com/), 2024)*
 - **Full-stack web** — ASP.NET Core REST APIs with **Next.js / React / TypeScript** frontends, PostgreSQL, Docker
 - **Databases** — SQL Server, PostgreSQL, MySQL, MongoDB
 - **SEO, Google Business Profile & local marketing** — e.g. designed and built **[salonfryzurar.pl](https://salonfryzurar.pl)** (static site on Cloudflare Pages) with on-page SEO, GBP optimization and privacy-first analytics
 - **Workflow & tooling** — Git (GitHub, Bitbucket, GitLab), Docker, Linux, Visual Studio / JetBrains
 - **Electronics & embedded background** — electronics technician; PCB design (Altium), PLC, electrical/electronic installations
+- **Hardware diagnostics & repair** — board-level troubleshooting, hardware / PCB reverse engineering, GPON / ONT diagnostics, configuration & repair
 
 ## 🧪 From side & student projects
 
@@ -62,10 +67,6 @@ Skills demonstrated in my portfolio (studies / personal projects, not commercial
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamilr616&theme=cobalt" alt="GitHub stats" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamilr616&theme=cobalt" alt="Top languages by repository" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamilr616&theme=cobalt&utcOffset=2" alt="Most productive commit time" width="32%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilr616&bg_color=193549&color=75eeb2&line=e683d9&point=0480ef&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" width="100%"/>
 </p>
 
 ## 📫 How to reach me
